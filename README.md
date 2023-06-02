@@ -1,4 +1,5 @@
 # firstproj
+//code for a 9*9 sudoku game.
 #include <iostream>
 using namespace std;
 
